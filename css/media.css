@@ -300,15 +300,19 @@ width: 100%;
 display: flex;
 justify-content: flex-start;
 width: 100%;
+gap: none;
+margin-bottom: 50px;
 }
 
 
 .email-footer {
-width:75%;
+width: 100%;
+margin-bottom: 10px;
 }
 
-.button-footer {
-width: 20%;
+.button-footer{
+width: 50%;
+margin: auto;
 }
 
 
